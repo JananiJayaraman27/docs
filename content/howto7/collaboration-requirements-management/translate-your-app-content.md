@@ -63,7 +63,7 @@ In the **Operation** section of the dialog box, there are four language operatio
 * **Copy** – copies the source language to the destination language, which ovewrites all the texts in the desination language with those in the source language
     * Select the **Source language** and the **Destination language** in their respective drop-down menus for the copy language operation
     * Texts that were absent in the source language will be absent in the desination language
-* **Swap** – swaps the source lanauge and the destination language, which moves all the texts in the source lanauge to the destination language and vice versa
+* **Swap** – swaps the source language and the destination language, which moves all the texts in the source lanauge to the destination language and vice versa
     * Select the **First language** and the **Second language** in their respective drop-down menus for the swap language operation
 * **Delete** – deletes all the texts in the language selected in the **Language** drop-down menu
 
